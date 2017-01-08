@@ -1,0 +1,3 @@
+rootProject.name = 'huanke2'
+
+include ':app'
